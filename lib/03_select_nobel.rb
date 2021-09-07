@@ -24,6 +24,7 @@ end
 def prizes_from_1950
   # Display Nobel prizes for 1950.
   execute(<<-SQL)
+      
   SQL
 end
 
